@@ -11,33 +11,166 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3dprinting</title>
+      <link>http://localhost:1313/tags/3dprinting/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3dprinting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cnc</title>
+      <link>http://localhost:1313/tags/cnc/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cnc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frenchies</title>
+      <link>http://localhost:1313/tags/frenchies/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/frenchies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lathe</title>
+      <link>http://localhost:1313/tags/lathe/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lathe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Milling</title>
+      <link>http://localhost:1313/tags/milling/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/milling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pilot</title>
+      <link>http://localhost:1313/tags/pilot/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pilot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Usscassinyoung</title>
+      <link>http://localhost:1313/tags/usscassinyoung/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/usscassinyoung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vocational</title>
+      <link>http://localhost:1313/tags/vocational/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vocational/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:1313/tags/architecture/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASG</title>
+      <link>http://localhost:1313/tags/asg/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boston Plan for Excellence</title>
+      <link>http://localhost:1313/tags/boston-plan-for-excellence/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/boston-plan-for-excellence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brophy</title>
+      <link>http://localhost:1313/tags/brophy/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CBT</title>
+      <link>http://localhost:1313/tags/cbt/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cbt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Code</title>
       <link>http://localhost:1313/tags/code/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Construction</title>
+      <link>http://localhost:1313/tags/construction/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/construction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Duke</title>
+      <link>http://localhost:1313/tags/duke/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/duke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>http://localhost:1313/tags/engineering/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
       <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/first/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
       <link>http://localhost:1313/tags/git/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Makerspace</title>
+      <link>http://localhost:1313/tags/makerspace/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/makerspace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medford</title>
+      <link>http://localhost:1313/tags/medford/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/medford/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Construction Zone</title>
+      <link>http://localhost:1313/tags/the-construction-zone/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/the-construction-zone/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
       <link>http://localhost:1313/tags/website/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/website/</guid>
       <description></description>
     </item>

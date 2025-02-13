@@ -1,0 +1,18 @@
+---
+author: ["Noah Lewkowitz"]
+title: "About"
+date: "2025-02-13"
+description: "This is a little bit of information about me"
+summary: "Machining, Making, Fixing, Flying, Commanding, DD793"
+tags: ["milling", "lathe", "cnc", "pilot", "usscassinyoung", "3dprinting", "vocational", "frenchies"]
+categories: ["general", "website"]
+series: ["General"]
+ShowToc: false
+TocOpen: false
+---
+This is my first post. It has been a frustrating journey to get to this point with Hugo and Git, but I'm determined to make this work.
+So far I have learned how to install Hugo on my computer using Homebrew. After installing Hugo, I then began learning how to use the Terminal to access files on the computer. So far I have used the cd, ls, git init, and git clone commands with varying levels of success.
+
+Will this make a new line? Apparently the answer to that question is yes, it will make a new line simply by adding a line in the text file in Atom. I've also had to download Atom to my Mac in order to help me edit the different types of files required to operate this website.
+
+I'm still learning quite a bit, and my next goal is to host the website so others can see it. As of now, I am writing this simply as a website stored locally and connected to my git repo.
